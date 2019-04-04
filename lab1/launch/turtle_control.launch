@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="turtlesim" name="sim" type="turtlesim_node"/>
+	<node pkg="anro-michalski_palkowski" name="steer" type="steer.py">
+		<rosparam command="load" file="$(find anro-michalski_palkowski)/parametry.yaml"/>
+	</node>
+</launch>

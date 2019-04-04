@@ -1,0 +1,4 @@
+forward: a
+backward: n
+rot_left: r
+rot_right: o
