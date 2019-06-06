@@ -1,0 +1,18 @@
+secondRow: 
+   len: 1.0
+   xyz:  0.5 0.0 0.0
+   rpy:  0 0.0 0
+   limit: -1.0
+
+thirdRow: 
+   len: 2.0
+   xyz:  1.0 0.0 0.0
+   rpy:  0 0.0 0
+   limit: -2.0
+
+firstRow: 
+   len: 2.0
+   xyz:  0.0 0.0 1.0
+   rpy:  0 0.0 0
+   limit: -2.0
+
